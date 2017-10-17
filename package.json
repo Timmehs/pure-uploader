@@ -1,0 +1,15 @@
+{
+  "name": "pure-uploader",
+  "version": "0.1.0",
+  "description": "Direct uploads to S3 for the client or the server.",
+  "main": "index.js",
+  "repository": "git@github.com:Timmehs/pure-uploader.git",
+  "author": "Tim Sandberg <tasandberg@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
