@@ -1,5 +1,5 @@
-function S3Uploader(opts) {}
+function Uploader(opts) {}
 
 module.exports = {
-  S3Uploader
+  Uploader
 }
